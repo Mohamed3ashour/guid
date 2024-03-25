@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "1d24",
+      "title": "reading",
+      "completed": false,
+      "description": "reading 2 books"
+    },
+    {
+      "id": "f8e3",
+      "title": "quraan",
+      "completed": false,
+      "description": "reading 1 chapter"
+    },
+    {
+      "id": "2c99",
+      "title": "watching movie",
+      "completed": true,
+      "description": "watching a new movie"
+    },
+    {
+      "id": "95fe",
+      "title": "help",
+      "description": "helping bodda",
+      "completed": false
+    }
+  ]
+}
